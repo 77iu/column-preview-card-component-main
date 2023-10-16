@@ -173,19 +173,14 @@ p{
 
 /* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 
-@media(max-width : 376px){
+@media(max-width : 400px){
   
     .container{
         flex-direction: column;
        min-height: 1502px;
        position: relative;
     }
-    .fondo{
-    display: none;
-    }
-    .fondo02{
-        display: block;
-    }
+ 
     .card{
        min-width: 325px;
         max-height: 440px;
